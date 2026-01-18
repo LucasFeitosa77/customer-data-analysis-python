@@ -52,7 +52,7 @@ O objetivo principal deste projeto é:
 ## ▶️ Como Executar o projeto
 1. Clone o repositório
 ```bash
-git clone https://github.com/LucasFeitosa77/nome-do-repositorio.git
+git clone https://github.com/LucasFeitosa77/customer-data-analysis-python.git
 ```
 2. Instale as dependências
 ```bash
